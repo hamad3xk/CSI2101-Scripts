@@ -6,4 +6,4 @@ validint.sh = task 2
 countdf.sh = task 3
 searchlog.sh = task 4
 
-this repo is for my scripting assignment. please do not copy
+this repo is for my scripting assignment. please do not copy THIS PLEASE.
