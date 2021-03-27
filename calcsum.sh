@@ -9,6 +9,7 @@ if [ $sum -le 30 ]; then
 else 
     echo "The sum exceeds maximum allowable"
     echo "goodbye"
+    echo "test"
 fi
 
 exit 0
